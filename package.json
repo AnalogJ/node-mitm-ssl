@@ -1,0 +1,11 @@
+{ "name": "throwaway_node",
+    "version": "0.0.1",
+    "author": "Jason Kulatunga",
+    "description" : "proxy",
+    "main" : "proxy",
+    "engines" : { "node": ">0.11.7" },
+    "keywords" : [  "http", "https","proxy", "mitm" ],
+    "dependencies" : {
+        "colors" : ">=0.1.0"
+    }
+}
